@@ -31,3 +31,4 @@ dist-ssr
 *.ntjsproj
 *.sln
 *.sw?
+.vercel
